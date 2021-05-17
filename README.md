@@ -1,6 +1,6 @@
 # car_app
 
-A new Flutter project.
+This is an app UI for car info showcase made with flutter
 
 ## Demo
 <p align="center"><img src="showcase.gif"/></p>
